@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /index.html
+Disallow: /vins-chinon/domaine-naulet.html
+Disallow: /vins-chinon/vins-chinon.html
+Disallow: /vins-chinon/palmares.html
+Disallow: /vins-chinon/galerie.html
+Disallow: /vins-chinon/contact.html
+Disallow: /vins-chinon/credits.html
+User-agent: Mediapartners-Google 
+Allow: /
