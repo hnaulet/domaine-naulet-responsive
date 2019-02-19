@@ -1,5 +1,5 @@
 body{overflow-x:hidden;font-family:Plantin,"Helvetica Neue",Helvetica,Arial,sans-serif;}
-#map-outer{padding:20px;border:2px solid #CCC;margin-bottom:20px;background-color:#FFF}
+#map-outer{padding:0px;border:2px solid #CCC;padding-bottom:5px;background-color:#FFF}
 #map-container{height:400px}
 .text-muted{color:#777;}
 .text-primary{color:#822;}
